@@ -4,6 +4,7 @@
 "MRALT-46976&&-47007"
 "TBSGI2O&TBSGI2I"
 
+GSM1APTF         MTRFF                   1 
 
 return null:
 
