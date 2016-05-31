@@ -13,3 +13,5 @@ ob="MRALT-58560&&-58591"
 port: 8080
 
 OMSRS            CLMSCCTHR               1177 
+
+MSMDN5/MGLHK1/"TBLSM3O&TBLSM3I"
