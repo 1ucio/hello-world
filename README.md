@@ -6,7 +6,7 @@
 
 GSM1APTF         MTRFF                   1 
 
-return null:
+
 
 ob="MRALT-58560&&-58591"
 
